@@ -1,0 +1,16 @@
+s = set()
+n= input("Enter 1st number: ")
+s.add(int(n))
+n= input("Enter 2nd number: ")
+s.add(int(n))
+n= input("Enter 3rd number: ")
+s.add(int(n))
+n= input("Enter 4th number: ")
+s.add(int(n))
+n= input("Enter 5th number: ")
+s.add(int(n))
+n= input("Enter 6th number: ")
+s.add(int(n))
+
+
+print(s)
