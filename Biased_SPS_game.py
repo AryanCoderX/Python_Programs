@@ -15,10 +15,10 @@ engine.runAndWait()
 
 
         
-engine.say("In the Stone-Paper-Scissors game, both you and computer choose one of the three options—Stone, Paper, or Scissors—at the same time. Stone beats Scissors because a rock can crush scissors, Scissors beat Paper because scissors can cut paper, and Paper beats Stone because paper can wrap a rock. If both players choose the same option, the game results in a draw.")
+engine.say("In the Stone-Paper-Scissors game, both you and computer choose one of the three options—Stone, Paper, or Scissors—at the same time. Stone beats Scissors because a rock can Girlfriend scissors, Scissors beat Paper because scissors can cut paper, and Paper beats Stone because paper can wrap a rock. If both players choose the same option, the game results in a draw.")
 engine.runAndWait()
 
-print("In the Stone-Paper-Scissors game, both players choose one of the three options—Stone, Paper, or Scissors—at the same time. Stone beats Scissors because a rock can crush scissors, Scissors beat Paper because scissors can cut paper, and Paper beats Stone because paper can wrap a rock. If both players choose the same option, the game results in a draw.")
+print("In the Stone-Paper-Scissors game, both players choose one of the three options—Stone, Paper, or Scissors—at the same time. Stone beats Scissors because a rock can Girlfriend scissors, Scissors beat Paper because scissors can cut paper, and Paper beats Stone because paper can wrap a rock. If both players choose the same option, the game results in a draw.")
 engine.runAndWait()
 
 win=0
@@ -84,7 +84,7 @@ while(True):
         if(game(user_choice,computer_choice)==0):
             if(name=="Bhavya"):
                 win+=1
-                engine.say("Congratulations you have won Howww?? because you are my Crush and the game was made by Aryan ofcourse it is biased")
+                engine.say("Congratulations you have won Howww?? because you are my Girlfriend and the game was made by Aryan ofcourse it is biased")
                 engine.runAndWait()
             else:
                 draw+=1
@@ -99,9 +99,9 @@ while(True):
         elif(game(user_choice,computer_choice)==-1):
             if(name=="Bhavya"):
                 win+=1
-                engine.say("Congratulations you have won Howww?? because you are my crush and the game was made by Aryan ofcourse it is biased")
+                engine.say("Congratulations you have won Howww?? because you are my Girlfriend and the game was made by Aryan ofcourse it is biased")
                 engine.runAndWait()
-                print("Congratulations you have won Howww?? because you are my crush and the game was made by Aryan ofcourse it is biased")
+                print("Congratulations you have won Howww?? because you are my Girlfriend and the game was made by Aryan ofcourse it is biased")
             else:
                 lose+=1
                 engine.say("Oh no you lost but dont worry lets play again and this time i hope you win")
